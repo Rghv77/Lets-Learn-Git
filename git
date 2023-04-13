@@ -1,0 +1,2 @@
+git diff command current working file and current staging file ka diff batata head
+git diff --staged current staged file and previous commited file ka differnece btata h
